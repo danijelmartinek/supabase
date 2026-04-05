@@ -2,14 +2,16 @@
 assignee: "danijel"
 created: "2026-04-05T20:42:14.004Z"
 id: "SUP-1"
-labels: ["backend","security"]
+labels:
+  - "backend"
+  - "security"
 parent: "PROJ-041"
 priority: "medium"
 schema_version: 1
-status: "open"
+status: "done"
 template: "task"
 title: "test"
-updated: "2026-04-05T20:42:14.004Z"
+updated: "2026-04-05T21:16:22.543Z"
 ---
 
 # test
