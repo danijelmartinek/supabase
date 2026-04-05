@@ -11,11 +11,11 @@ schema_version: 1
 status: "in_progress"
 template: "task"
 title: "test"
-updated: "2026-04-05T21:18:20.299Z"
+updated: "2026-04-05T22:01:47.110Z"
 ---
 
 # test
 
 ## Description
 
-
+Please provide a summary of the metadata for this disk. Include key attributes like size, format, and any other relevant details.
